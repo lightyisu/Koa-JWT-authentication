@@ -1,8 +1,8 @@
 ## KOA AUTHENTICATION 鉴权
 
 基于Koa和koa生态的鉴权demo 
-
 鉴权方式：主流的`jwt`鉴权
+
 
 参考资料：
 

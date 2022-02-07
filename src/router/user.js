@@ -10,4 +10,6 @@ router.get('/',(ctx,next)=>{
     ctx.body='this is users res'
 })
 router.get('/userList',User.getUersList)
+
+
 module.exports=router;
